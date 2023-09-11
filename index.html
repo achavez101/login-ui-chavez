@@ -24,15 +24,28 @@
         add text later
     -->
     <div class="container">
+       
         <div class="pink">
 
             <div class="texts">
                 <h1>Login</h1>
                 <h1>THE SKY IS THE LIMIT</h1>
             </div>
-            <!-- input button for username -->
-            <!-- input button for password -->
+
+            <form>
+                <fieldset>
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username"><br>
+                    <label for="pass">Password (min 10 characters):</label>
+                    <input type="password" id="pass" name="password" minlength="10" required>
+
+                    <input type="submit"  class="button" name="submit" value="Sign In">
+                </fieldset>
+            </form>
+            <!-- add placeholder text -->
+            <!-- password field hidden with asterisks or circles-->
         </div>
+
     </div>
 </body>
 </html>
