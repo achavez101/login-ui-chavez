@@ -17,12 +17,13 @@ body {
     display: flex;
     height: 25vh;
     width: 50vw;
-    width: 50%;
-    height: 25%;
+    /* width: 50%;
+    height: 25%; */
     align-self: center;
     justify-content: center;
     border: 10px groove gray;
     box-shadow: 15px 15px #f3a9d9;
+
 }
 .pink {
     background-color: pink;
@@ -45,10 +46,19 @@ h1 {
     display: flex;
     justify-content: center;
     align-self: flex-end;
-    height: 10vh;
+    height: 5vh;
     width: 10vw;
     flex-direction: column;
+}
+.user-info {
+    font-weight: bold;
 }
 /* ask about position of button */
 /* having trouble with positioning items */
 /* need to gain an understanding */
+
+
+
+
+/* need to create rounded edges for sign-in box */
+/* need to use flex-shrink / flex-grow past a certain amount of width / height */
