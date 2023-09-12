@@ -3,7 +3,6 @@ body {
 }
 .container {
     display: flex;
-    border: 5px solid blue;
     height: 100vh;
     width: 100vw;
     justify-content: center;
@@ -14,51 +13,54 @@ body {
     background-repeat: no-repeat;
 }
 .pink {
-    display: flex;
-    height: 25vh;
-    width: 50vw;
-    /* width: 50%;
-    height: 25%; */
+    height: 30vh;
+    width: 60vw;
+    /* display: flex; */
     align-self: center;
     justify-content: center;
     border: 10px groove gray;
-    box-shadow: 15px 15px #f3a9d9;
+    box-shadow: 15px 15px #FD6B56;
+    border-radius: 25px;
 
 }
 .pink {
-    background-color: pink;
+    background-color: #CFB5B7;
 }
 h1 {
     /* display: flex;
     align-self: flex-start;  */
-    font-size: 20px;
-    color: #7377ea;
+    color: #fb2908;
+    font-size: 2.5vh;
     font-weight: bold;
     text-align: center;
-    align-self: center;
 }
 .button {
-    background-color: #f3a9d9;
+    background-color: #FD6B56;
     border: none;
-    color: #7377ea;
+    color: black;
     text-align: center;
     cursor: pointer;
+    font-size: 2.5vh;
     display: flex;
-    justify-content: center;
-    align-self: flex-end;
-    height: 5vh;
-    width: 10vw;
     flex-direction: column;
+    justify-content: center;
 }
 .user-info {
-    font-weight: bold;
+    font-size: 2vh;
 }
-/* ask about position of button */
-/* having trouble with positioning items */
-/* need to gain an understanding */
+label {
+    font-size: 2.5vh;
+    
+}
+/* getting rid of color */
+fieldset {
+    border: 0;
+}
+form {
+    align-items: center;
+    justify-content: center;
+}
 
 
 
-
-/* need to create rounded edges for sign-in box */
 /* need to use flex-shrink / flex-grow past a certain amount of width / height */

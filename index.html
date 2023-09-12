@@ -7,20 +7,17 @@
     <title>Login</title>
 </head>
 <body>
+    
+    
+    
     <!-- align items will do vertical work -->
     <!-- justify-content will move items to right or left / horizontal work -->
-
-
     <!-- possible center alignment with following features
         justify-content: center;
         align-items: center;
-
-        
-        
         create a box using css 
             box properties
                 size: height smaller than width
-
         add text later
     -->
     <div class="container">
@@ -35,15 +32,16 @@
             <form>
                 <fieldset>
                     <label for="username">Username</label>
-                    <input type="text" class="user-info" id="username" name="username" required><br>
+                    <input type="text" class="user-info" id="username" name="username" placeholder="username" required><br>
                     <label for="pass">Password (> 10 characters):</label>
-                    <input type="password" id="pass" class="user-info" name="password" minlength="10" required>
+                    <input type="password" id="pass" class="user-info" name="password" placeholder="password" minlength="10" required>
 
                     <input type="submit"  class="button" name="submit" value="Sign In">
                 </fieldset>
             </form>
             <!-- add placeholder text -->
             <!-- how to get the text to stay inside container -->
+            <!-- rounded edges -->
         </div>
 
     </div>
