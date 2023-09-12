@@ -1,8 +1,11 @@
+body {
+    margin: 0;
+}
 .container {
     display: flex;
     border: 5px solid blue;
-    height: 100vw;
-    width: 100vh;
+    height: 100vh;
+    width: 100vw;
     justify-content: center;
 
     /* background image code */
@@ -42,8 +45,9 @@ h1 {
     display: flex;
     justify-content: center;
     align-self: flex-end;
-    height: 50px;
-    width: 100px;
+    height: 10vh;
+    width: 10vw;
+    flex-direction: column;
 }
 /* ask about position of button */
 /* having trouble with positioning items */
