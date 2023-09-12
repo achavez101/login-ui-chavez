@@ -21,14 +21,11 @@ body {
     border: 10px groove gray;
     box-shadow: 15px 15px #FD6B56;
     border-radius: 25px;
-
 }
 .pink {
     background-color: #CFB5B7;
 }
 h1 {
-    /* display: flex;
-    align-self: flex-start;  */
     color: #fb2908;
     font-size: 2.5vh;
     font-weight: bold;
@@ -40,27 +37,20 @@ h1 {
     color: black;
     text-align: center;
     cursor: pointer;
-    font-size: 2.5vh;
+    font-size: 3vh;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
 }
 .user-info {
-    font-size: 2vh;
+    font-size: 2.5vh;
 }
 label {
-    font-size: 2.5vh;
-    
+    font-size: 3.5vh; 
 }
 /* getting rid of color */
 fieldset {
     border: 0;
 }
-form {
-    align-items: center;
-    justify-content: center;
-}
-
-
-
 /* need to use flex-shrink / flex-grow past a certain amount of width / height */
