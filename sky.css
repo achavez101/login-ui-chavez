@@ -1,3 +1,45 @@
 body {
     background-image: linear-gradient(to right, #fb4b80, #f6799d, #d7bce8, #e8cee4, #fde2ff);
 }
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img {
+    height: 400px;
+    border: 5px solid transparent;
+    border-radius: 4px;
+}
+.sunset10{
+   order: -1;
+}
+.sunset14{
+    order: 4;
+}
+.sunset5{
+    order: 0;
+}
+.sunset1 {
+    order: 14;
+}
+.sunset2 {
+    order: 13;
+}
+.sunset12 {
+    order: 2;
+}
+.sunset11 {
+    order: 12;
+}
+.sunset3 {
+    order: 5;
+}
+.sunset6 {
+    order: 10;
+}
+.sunset14 {
+    order: 11;
+}
+
