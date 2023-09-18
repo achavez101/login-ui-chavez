@@ -30,6 +30,9 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+.limit:hover {
+    color: green;
+}
 .button {
     background-color: #FD6B56;
     border: none;
@@ -40,6 +43,9 @@ h1 {
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
+}
+.button:hover {
+    background-color: white;
 }
 /* less than or equal to */
 @media (max-height: 700px){
