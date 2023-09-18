@@ -84,5 +84,3 @@ input:invalid {
 fieldset {
     border: 0;
 }
-
-/* need to use flex-shrink / flex-grow past a certain amount of width / height */
