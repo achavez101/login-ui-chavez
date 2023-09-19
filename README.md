@@ -1,10 +1,10 @@
 
 # Login UI
-## **Main Files**
+## Main Files
 ### [index.html](https://github.com/achavez101/login-ui-chavez/blob/main/index.html)
 ### [styles.css](https://github.com/achavez101/login-ui-chavez/blob/main/styles.css)
 
-## **Sky Files**
+## Sky Files
 ### [sky.html](https://github.com/achavez101/login-ui-chavez/blob/main/sky.html)
 ### [sky.css](https://github.com/achavez101/login-ui-chavez/blob/main/sky.css)
 
