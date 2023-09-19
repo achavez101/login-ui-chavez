@@ -8,8 +8,8 @@
 ### sky.html
 ### sky.css
 
-**Demo Image Files**
-### full-screen-macbook.png
-### [Sky.png](https://github.com/achavez101/login-ui-chavez/blob/main/Sky.png)
-### small.png
-### width-resized.png
+## Demo Image Files
+[Full Screen Macbook Login](https://github.com/achavez101/login-ui-chavez/blob/main/full-screen-macbook.png)
+[Small Login Resizing](https://github.com/achavez101/login-ui-chavez/blob/main/small.png)
+[Resized Width Login](https://github.com/achavez101/login-ui-chavez/blob/main/width-resized.png)
+[Sky Demo page](https://github.com/achavez101/login-ui-chavez/blob/main/Sky.png)
