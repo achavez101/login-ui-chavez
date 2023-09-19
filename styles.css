@@ -21,6 +21,8 @@ body {
     border: 10px groove gray;
     box-shadow: 15px 15px #FD6B56;
     border-radius: 25px;
+    min-width: 350px;
+    min-height: 250px;
 }
 .pink {
     background-color: #CFB5B7;
