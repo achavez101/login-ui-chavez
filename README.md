@@ -10,6 +10,6 @@
 
 **Demo Image Files**
 ### full-screen-macbook.png
-### [Sky.png] [https://github.com/achavez101/login-ui-chavez/blob/main/Sky.png]
+[Sky.png] [https://github.com/achavez101/login-ui-chavez/blob/main/Sky.png]
 ### small.png
 ### width-resized.png
